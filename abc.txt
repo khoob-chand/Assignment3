@@ -1,3 +1,7 @@
 I am ashish and i am chaning here for demo of assignment 3
 This is a feature of feature 3 and i am modifing it 
+<<<<<<< HEAD
 Now changing here on local machine.
+=======
+Modifing here for making conflict and then resolve it 
+>>>>>>> 07874f486a1e8d3e1a7a6a60dd4caba21a7604a3
